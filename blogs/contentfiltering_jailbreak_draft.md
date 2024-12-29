@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Content filtering in Azure OpenAI includes several safety measures, with jailbreak detection being a critical component. This blog focuses specifically on understanding and preventing jailbreak-related content filtering issues in Azure OpenAI applications.
+Content filtering in Azure OpenAI includes several safety measures, with jailbreak detection being a critical component. This blog focuses specifically on understanding and preventing jailbreak-related content filtering issues in Azure OpenAI based applications.
 
 ## What is Jailbreak Detection?
 
