@@ -1,2 +1,2 @@
-# Projects
-This is collection of my projects which is publicly available.
+# Blogs
+This is collection of my Articles which is publicly available.
