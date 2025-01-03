@@ -147,7 +147,7 @@ Building a local AI assistant was challenging but rewarding. It proves that we c
 
 ## Get Started
 
-Want to try it yourself? The complete code is available on [GitHub](your-repo-link). I'd love to hear about your experiences and improvements.
+Want to try it yourself? The complete code is available on [GitHub](https://github.com/Vaibhav-Kumar-Yadav/Smart_Personal_Assistant_WithSLMs-LocallyHosted-). I'd love to hear about your experiences and improvements.
 
 ---
 
